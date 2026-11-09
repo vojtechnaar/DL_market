@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Generated: data, runs, checkpoints
+data/
+runs/
+checkpoints/
+*.parquet
+
+# Local
+.DS_Store
+.env
